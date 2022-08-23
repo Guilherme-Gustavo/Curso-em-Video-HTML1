@@ -1,5 +1,8 @@
-# Curso-em-Video-HTML1
-Módulo básico de HTML do site curso em video de Gustavo Guanabara.
+<h1>Curso-em-Video-HTML1 </h1>
+<h2>Módulo básico de HTML do site curso em video de Gustavo Guanabara.</h2>
 
-Realizei este curso básico em junho e julho de 2022 para adquirir as primeiras noções de HTML e CSS.
-Como não tenho muita experiência com o github e não coloquei meus arquivos em algum site para hospedagem, talvez não funcione muito bem aqui, mas já dá para ter uma noção do sistema e dos códigos.
+<p> Realizei este curso básico em junho e julho de 2022 para adquirir as noções básicas de HTML e CSS.</p>
+<p> O repositório abriga os aquivos em HTML e CSS do site bem como os arquivos multimídia usados no desenvolvimento.</p>
+<p> O site é sobre o google glass, com 5 páginas dentro do site, sendo elas "home", "especificações", "fotos", "multimídia" e "fale conosco". Cada uma da páginas contêm suas próprias características e arquivos. </p>
+ 
+
